@@ -1,0 +1,10 @@
+configuration {
+    font:                "JetBrains Mono Regular 14";
+    icon-theme:          "Papirus-Dark";
+    display-drun:        "Apps";
+    scroll-method:       0;
+    disable-history:     false;
+    sidebar-mode:        false;
+}
+
+@theme "minimal.rasi"
